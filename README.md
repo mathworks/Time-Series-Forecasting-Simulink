@@ -32,7 +32,7 @@
 など任意の製品が提供する時系列解析機能(特に回帰)にも応用することが可能です。
 
 詳細に関しては同梱されているPDFファイル 
-[TimeSeriesForecasting_on_Simulink](https://github.com/mathworks/Time-Series-Forecasting-Simulink/blob/master/TimeSeriesForecasting_on_Simulink.pdf) をご覧ください
+[TimeSeriesForecasting_on_Simulink.pdf](https://github.com/mathworks/Time-Series-Forecasting-Simulink/blob/master/TimeSeriesForecasting_on_Simulink.pdf) をご覧ください
 
 
 ## Requirements
