@@ -1,3 +1,5 @@
+[![View Time-Series-Forecasting-Simulink on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://jp.mathworks.com/matlabcentral/fileexchange/75638-time-series-forecasting-simulink)
+
 # Recursive Forecasting using Arbitrary Time Series Model on Simulink®
 
 時系列の予測を Simulink モデル上で！​
@@ -37,8 +39,8 @@
 
 ## Requirements
 
-* MATLAB
+* MATLAB R2020a
 * Simulink
-* Deep Learning Toolbox
-* Econometrics Toolbox
+* Deep Learning Toolbox (requireed by GRU/LSTM)
+* Econometrics Toolbox (required by ARIMAX/SSM)
 
