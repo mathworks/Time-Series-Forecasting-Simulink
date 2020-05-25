@@ -28,8 +28,8 @@ They offer features to forecast time series recursively and each example describ
 
 ## Requirements
 
-* MATLAB
+* MATLAB R2020a
 * Simulink
-* Deep Learning Toolbox
-* Econometrics Toolbox
+* Deep Learning Toolbox  (requireed by GRU/LSTM)
+* Econometrics Toolbox  (requireed by ARIMAX/SSM)
 
